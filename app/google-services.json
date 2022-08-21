@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50515812433",
+    "project_id": "avaliativo-mobile",
+    "storage_bucket": "avaliativo-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50515812433:android:e0c424116d9df5b0b59870",
+        "android_client_info": {
+          "package_name": "com.example.a2_avaliativo_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50515812433-7aaa5h0e1abe7i0hl9iptps3hsijlf09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBcurV4lgO-tYXXCgu8UEbLMfjEciWK10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50515812433-7aaa5h0e1abe7i0hl9iptps3hsijlf09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
